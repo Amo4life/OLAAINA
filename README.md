@@ -1,2 +1,2 @@
 First release of Hello World!
-Am test running this App
+Am test running this App.
